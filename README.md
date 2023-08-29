@@ -4,4 +4,4 @@ NPM     : 2206081805
 
 Kelas   : D
 
-Hobi    : Baca Komik
+Hobi    : Berkomik komik komik
