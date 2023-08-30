@@ -2,6 +2,8 @@ Nama    : Samuel Taniel Mulyadi
 
 NPM     : 2206081805
 
-Kelas   : D
+Kelas   : PBP D
 
-Hobi    : Berkomik komik komik
+Hobi    : Baca komik dan nonton anime
+
+Jurusan : Ilmu Komputer
